@@ -1,0 +1,49 @@
+ 
+ 
+##############################################################################
+20250812_201254 gapseq GCF_001560755 Iniciando model recontruction
+##############################################################################
+ 
+20250812_201254 gapseq find pathways
+20250812_233208 gapseq find transport
+20250812_233402 gapseq build draft model
+20250812_234204 gapseq find medium
+20250812_234213 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_aerobic_CO2_H2_glcaa.csv medium output in MM_aerobic_CO2_H2_glcaa
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 20:12 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 12845 s.
+20250812_234659 gapseq GCF_001560755 terminado. Tiempo total 12845 s
+ 
+ 
+ 
+ 
+ 
+ 
+##############################################################################
+20250813_012429 gapseq GCF_001560755 Iniciando model recontruction
+##############################################################################
+ 
+20250813_012429 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_VD_1_Ni_wo_0.csv medium output in MM_VD_1_Ni_wo_0
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 01:24 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 354 s.
+20250813_013022 gapseq GCF_001560755 terminado. Tiempo total 354 s
+ 
+ 
+ 
+ 
+ 
+ 
+##############################################################################
+20250813_035212 gapseq GCF_001560755 Iniciando model recontruction
+##############################################################################
+ 
+20250813_035212 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_VD_2_gapseq_wo_0.csv medium output in MM_VD_2_gapseq_wo_0
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 03:52 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 362 s.
+20250813_035814 gapseq GCF_001560755 terminado. Tiempo total 362 s
+ 
+ 
+ 
+ 

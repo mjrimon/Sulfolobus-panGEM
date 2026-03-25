@@ -1,0 +1,63 @@
+ 
+ 
+##############################################################################
+20250812_021940 gapseq GCA_002495845_p Iniciando model recontruction
+##############################################################################
+ 
+20250812_021940 gapseq find pathways
+20250812_072934 gapseq find transport
+20250812_073138 gapseq build draft model
+20250812_073619 gapseq find medium
+20250812_073629 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_aerobic_CO2_H2_glcaa.csv medium output in MM_aerobic_CO2_H2_glcaa
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 02:19 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/g
+Running time: 19407 s.
+20250812_074307 gapseq GCA_002495845_p terminado. Tiempo total 19407 s
+ 
+ 
+ 
+ 
+ 
+ 
+##############################################################################
+20250812_075801 gapseq GCA_002495845_p Iniciando model recontruction
+##############################################################################
+ 
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 07:58 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 0 s.
+20250812_075801 gapseq GCA_002495845_p terminado. Tiempo total 0 s
+ 
+ 
+ 
+ 
+ 
+ 
+##############################################################################
+20250812_234722 gapseq GCA_002495845_p Iniciando model recontruction
+##############################################################################
+ 
+20250812_234722 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_VD_1_Ni_wo_0.csv medium output in MM_VD_1_Ni_wo_0
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 23:47 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 502 s.
+20250812_235544 gapseq GCA_002495845_p terminado. Tiempo total 502 s
+ 
+ 
+ 
+ 
+ 
+ 
+##############################################################################
+20250813_030900 gapseq GCA_002495845_p Iniciando model recontruction
+##############################################################################
+ 
+20250813_030900 gapseq fill with /home/users/mrimonmartinez/gapseq/projects/data/MM_VD_2_gapseq_wo_0.csv medium output in MM_VD_2_gapseq_wo_0
+%CPU %MEM     TIME START COMMAND
+ 0.0  0.0 00:00:00 03:08 /bin/bash ./get_gapseq_model_V02.sh -g /home/users/mrimonmartinez/gapseq -p /home/users/mrimonmartinez/gapseq/projects/pangenome/creacion_mo
+Running time: 418 s.
+20250813_031557 gapseq GCA_002495845_p terminado. Tiempo total 418 s
+ 
+ 
+ 
+ 
