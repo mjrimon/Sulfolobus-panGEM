@@ -28,7 +28,7 @@ models
 |        └── ...
 
 ```
-For every genome id (genome1) there are two GEM reconstructions depending of the medium using during the gapfilling:
+For every genome id (genome1) there are two GEM reconstructions depending of the medium used during the gapfilling:
 * Define medium (MM_VD_1_Ni_wo_0) folder, which contains: 
   - The first reconstructed model without alterations (model1.xml).
   - Another folder (cured_model1), which in turn contains:
