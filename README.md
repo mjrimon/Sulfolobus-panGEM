@@ -1,11 +1,11 @@
 # *Sulfolobus*-panGEM
 ## Directories
-### Models
+### models
 This directory contains the 76 GEMs reconstructed for the *Sulfolobus*-panGEM.
 
 **The folder GCA_000012285 contains the models from *S.acidocaldarius* reference genome (strain DSM 639).**
 
-The folder structure look like this:
+The folder structure looks like this:
 ```
 models
 ├── genome1/
