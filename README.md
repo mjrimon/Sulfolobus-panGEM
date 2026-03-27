@@ -14,13 +14,13 @@ models
 |   |   └── cured_model1/
 |   |       ├── model1.xml
 |   |       └── homolog_saciRefProtein/
-|   |           └── **model1.xml**       
+|   |           └── model1.xml       
 |   └── MM_aerobic_CO2_H2_glcaa/
 │       ├── model1.xml
 |       └── cured_model1/
 |           ├── model1.xml
 |           └── homolog_saciRefProtein/
-|               └── **model1.xml**  
+|               └── model1.xml  
 ├── genome2/
 |   ├── MM_VD_1_Ni_wo_0/
 |   |   └── ...
